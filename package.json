@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joanrodriguezhe/sesion08.git"
+    "url": "git+https://github.com/isc-joserodriguez/sesion08.git"
   },
   "author": "Jose Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joanrodriguezhe/sesion08/issues"
+    "url": "https://github.com/isc-joserodriguez/sesion08/issues"
   },
-  "homepage": "https://github.com/joanrodriguezhe/sesion08#readme"
+  "homepage": "https://github.com/isc-joserodriguez/sesion08#readme"
 }
